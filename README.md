@@ -69,9 +69,9 @@ npm start 1
 
 ```
 Day 01
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: 1.323ms
+Time part 2: 1.458ms
+Both parts: 2.781ms
 ```
 
 ```
